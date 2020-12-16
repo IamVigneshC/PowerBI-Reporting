@@ -12,3 +12,4 @@
 
       - Define table relationship
       - Configure Model properties
+      - Adding Calculated columns and Measures (DAX - Data Analysis Expression)
