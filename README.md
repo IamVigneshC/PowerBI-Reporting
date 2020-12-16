@@ -13,3 +13,21 @@
 - Define table relationship
 - Configure Model properties
 - Adding Calculated columns and Measures (DAX - Data Analysis Expression)
+
+### 3. Create Report
+
+#### Report elements
+
+- Visualization elements
+- Static elements
+- Page
+
+#### Format
+
+- Chart (Conditional Formatting)
+- Page (background)
+
+### 4. Publish Report
+
+- PBIX file
+- Pin to Dashboard
