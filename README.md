@@ -8,6 +8,11 @@
 - Transforming Data (Edit query in Query editor)
   * Rename table
   * Append Query (two or more tables to append columns)
+  * Fixing Metadata
+  * Filter Rows (condition)
+  * Remove Columns
+  * Adding Columns
+  * Merge queries (inner, outer, left, right)
 - Cleansing Data (Edit query in Query editor)
 
 ### 2. Create Data Model
