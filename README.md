@@ -13,11 +13,14 @@
   * Remove Columns
   * Adding Columns
   * Merge queries (inner, outer, left, right)
+  * Split by delimiter
 - Cleansing Data (Edit query in Query editor)
 
 ### 2. Create Data Model
 
-- Define table relationship
+- Define table relationships
+  * Fix data model for summarization
+  * Fix query and create relationships
 - Configure Model properties
 - Adding Calculated columns and Measures (DAX - Data Analysis Expression)
 
