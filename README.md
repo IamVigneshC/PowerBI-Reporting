@@ -6,8 +6,8 @@
 
 - Importing Data (from data sources)
 - Transforming Data (Edit query in Query editor)
-* Rename table
-* Append Query (two or more tables to append columns)
+  * Rename table
+  * Append Query (two or more tables to append columns)
 - Cleansing Data (Edit query in Query editor)
 
 ### 2. Create Data Model
