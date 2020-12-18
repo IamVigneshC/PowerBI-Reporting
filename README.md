@@ -16,13 +16,14 @@
   * Split by delimiter
 - Cleansing Data (Edit query in Query editor)
 
-### 2. Create Data Model
+### 2. Create Data Model, Enhance
 
 - Define table relationships
   * Fix data model for summarization
   * Fix query and create relationships
 - Configure Model properties
 - Adding Calculated columns and Measures (DAX - Data Analysis Expression)
+- Create hierarchies
 
 ### 3. Create Report
 
