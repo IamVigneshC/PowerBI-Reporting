@@ -42,3 +42,15 @@
 
 - PBIX file
 - Pin to Dashboard
+
+### 5. Visualize Data
+
+- Filters, Slicers
+- Highlighting, Drilling
+
+### 6. Refresh Data
+
+- Publish dataset
+- Refreshing data
+- Power BI Gateway set up - Personal
+- Power BI Gateway - Enterprise
