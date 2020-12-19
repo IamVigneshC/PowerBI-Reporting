@@ -2,7 +2,7 @@
 
 ## Steps:
 
-### 1. Preparation
+### 1. Prepare Data
 
 - Importing Data (from data sources)
 - Transforming Data (Edit query in Query editor)
