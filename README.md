@@ -54,3 +54,4 @@
 - Refreshing data
 - Power BI Gateway set up - Personal
 - Power BI Gateway - Enterprise
+
