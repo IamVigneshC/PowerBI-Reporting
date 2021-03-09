@@ -1,6 +1,6 @@
 # Power BI Reporting
 
-## Steps:
+## Quick Steps:
 
 ### 1. Prepare Data
 
